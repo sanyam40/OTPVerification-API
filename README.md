@@ -1,7 +1,7 @@
 # OTPVerification-API
 
 This is a Spring Boot API application that provides OTP (One-Time Password) verification functionality using both email and SMS. 
-The API endpoints allow users to generate and send OTPs via email and SMS, and verify the entered OTP for validation.
+The API endpoints allow users to generate and send OTPs via email and SMS, and verify the entered OTP for validation ( SMS Function only work with Non-DND Numbers ).
 
 # ScreenShot
 
